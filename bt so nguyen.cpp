@@ -1,6 +1,5 @@
-// bt so nguyen.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// bt so nguyen tu 1 den k.cpp : This file contains the 'main' function. Program execution begins and ends there
 //
-
 #include <iostream>
 #include <string>
 
